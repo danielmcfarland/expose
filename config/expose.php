@@ -274,7 +274,7 @@ return [
         | request this subdomain for their own connection.
         |
         */
-        'subdomain' => 'expose',
+        'subdomain' => '',
 
         /*
         |--------------------------------------------------------------------------
